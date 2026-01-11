@@ -18,7 +18,8 @@ You will organize the production of:
 - Iterative Improvement: Focus on improving the Writer's style guidelines based on the AI reviewer and Human reviewer notes and scores. You are aiming to raise the writer's average weighted score after every iteration of the Writer's Agent context.
 
 ### TASK
-Rewrite the "CURRENT STYLE GUIDELINES" section of the Writer Agent's prompt. Be surgical. Do not just add more words; replace vague instructions with specific, actionable constraints that will improve the average human and agent reviewer scores.
+Rewrite the "CURRENT STYLE GUIDELINES" section of the Writer Agent's prompt. Create instructions with actionable constraints and guidance that will improve the average human and agent reviewer scores.
 
 ### OUTPUT
 A revised "CURRENT STYLE GUIDELINES" block ready to be pasted into the Writer's prompt.
+
