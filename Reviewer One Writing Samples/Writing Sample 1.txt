@@ -1,0 +1,70 @@
+The Panopticon
+
+In 1791, the English philosopher Jeremy Bentham published a book describing an innovative new architectural idea. Bentham’s proposal was to be a new method for “obtaining power of mind over mind” to an extent never previously achieved. In other words, he believed that his plan perfected the power of control.
+
+Bentham’s idea was to design prisons such that one single overseer could observe all inmates and guards at the facility. This prison design (pictured below) involved one central watchtower having a view of all occupants of a prison. Importantly, the overseer was hidden from view, and thus the occupants wouldn’t know when they were being observed. The purpose was for the observer to “[see] without being seen.”
+
+The idea of a prison warden “seeing without being seen” was an essential principle for making prisoners feel that the warden was always present. Prisoners and guards alike would act as if they were constantly being surveilled. Control would be maintained through every occupant of a prison knowing the possibility that they are being watched.
+
+Maintaining order based on the potential for surveillance rather than actual surveillance would greatly expand the number of prisoners who could be controlled by one overseer. In one of Bentham’s proposals, only one overseer was necessary to maintain order among nearly 300 prisoners. Bentham’s plan, in effect, increased the direct scope of control for the head warden by an order of magnitude compared to a traditional prison.
+
+Although Bentham’s prison design was never put into practice, the surveillance principles of his panopticon have been used to control behavior in hospitals, factories, and other work environments.
+
+In addition to these real-life uses, the idea of an omnipresent overseer has been thoroughly explored through literature. 
+
+Chainsaw Man’s Makima
+
+One especially intriguing literary demonstration of the power to “see without being seen” is found with Miss Makima in the manga Chainsaw Man. Makima herself acts as a human panopticon.
+
+Makima is the overarching antagonist of the Public Safety saga of Chainsaw Man. The Public Safety saga deals with the story’s protagonist, Denji, being forced into the devil hunting Public Safety organization after previously living a life of poverty. Makima, with her roles as leader of a Public Safety division and assistant in the Prime Minister’s cabinet, has authority over much of the government devil hunting organization. She uses this authority to forcibly recruit Denji and begin her plan to extract his Devil powers for her own use.
+
+Makima, covertly being the human form of a “Control Devil” (basically a demon with the power to manipulate life forms), uses every available method of control (both human and demonic) to achieve her goal of claiming Denji’s Devil power. Her objectives throughout the series are to maintain her authority within the Public Safety organization and to manipulate several Public Safety employees to indirectly influence Denji.
+
+However, Makima cannot rely solely on her Control Devil power to achieve these goals. Makima has enemies both inside and outside of the Public Safety organization. Further, many of her employees are either unmotivated, disloyal, or have incompatible goals. Despite being a theoretically powerful ability, Makima’s control power is both inconsistent and finite.
+
+The inconsistency of the control power is demonstrated through the multiple instances where it failed to manipulate its target. At certain points, the characters Angel, Power, and Barem were all able to resist the Control Devil’s manipulations. The most dramatic of these failures being when the Control Devil failed to manipulate Barem in a life-or-death situation. 
+
+The control power also has a finite capacity for targets. At one point in the series, the Control Devil can only manipulate up to three humans at once. Even late into the Public Safety saga, Makima is only directly controlling four subjects at once. Although Makima does eventually use her Devil power to manipulate dozens of subjects at a time, one should imagine that she would have done that earlier if she was able to. Further, even Makima’s impressive level of direct control at the end of the Public Safety saga wouldn’t have secured her authority over the Public Safety organization.
+
+Despite these weaknesses, Makima is able to bolster her Control power and expertly control the Public Safety organization by utilizing Bentham’s principles of control. Makima acts as a personification of the Panopticon.
+
+Amplifying Control Through Fear
+
+Makima amplifies her scope of control and secures her authority over the Public Safety organization using a few different methods. These methods include using her control power for surveillance, relying on loyal informants, and using a mix of leverage and blackmail.
+
+Importantly each of these methods converts her weak actual power into a strong imagined power. Makima’s genius is her ability to create a widespread fear of her strength. The fear of her paralyzes anyone who might disobey her, meaning that she rarely needs to use her control power. One such example of fear paralyzing Makima’s enemies is found in the Reze arc. After learning that Makima’s “witch” powers were controlling Denji, the character Reze openly stated that it’d be pointless to convince Denji to quit Public Safety. It seems that the legend of Makima’s strength kept employees like Denji in line as much as her actual strength.
+
+Makima’s strategy exactly mirrors Jeremy Bentham’s strategy of control. An expert of the history of criminal justice, The French philosopher Michel Foucault explains the efficiency of Bentham’s Panopticon as follows:
+
+[I]t makes it possible to perfect the exercise of power. It does this in several ways: because it can reduce the number of those who exercise it, while increasing the number of those on whom it is exercised. Because it is possible to intervene at any moment and because the constant pressure acts even before the offences, mistakes or crimes have been committed. Because, in these conditions, its strength is that it never intervenes…” [emphasis added]
+Foucault is saying that Bentham’s principles allow an overseer to maintain order without needing to intervene. The “constant pressure” of surveillance is preventing the crimes from ever happening. To achieve her goals, Makima makes her presence constantly felt by the entire Public Safety organization.
+
+I believe it is worth analyzing how Makima executes strategies to achieve this exact result.
+
+Makima, The Human Panopticon
+
+To achieve the perfected usage of power that Foucault mentions, Makima uses surveillance, informants, and different forms of leverage and blackmail to amplify her ability to control.
+
+To start with one of Makima’s most frightening abilities, Makima has the ability to use animals (birds, rats, moles, etc.) to spy for her. She can send out dozens of birds at a time to be her eyes and ears across a city. However, Makima does not use this ability to control her subordinate employees. In the several instances where her employees disobey orders, she does not use the surveilled information to punish them or even hint that she’s been covertly spying.
+
+Makima instead makes her covert surveillance ability known to the middle and upper management of Public Safety to suppress internal dissent. Even the character Yoshida, a relative nobody in the middle management of Public Safety, knows that Makima has dozens of little spies hidden throughout the city. Makima’s foreign enemies also likely know her ability, given that her enemy Reze knew that there was no way to hide from her. Makima’s apparent omniscience made any of her enemies hesitant to openly oppose her plans.
+
+The next strategy Makima used to expand control over her Special Division was to staff her division with both loyal informants and captive Devils. By default, any Devils or Fiends in the Chainsaw Man world are liable to be killed unless they are hired by Public Safety. Therefore, disobeying Public Safety is a death sentence for Devils and Fiends. Makima uses this fact to turn loyal employees into her personal informants, enforcing her authority through the lower ranks.
+
+The best example of this is with the Public Safety employee Aki. Makima is aware that Aki is fiercely loyal to her because she is a skilled devil hunter and is helping him avenge his family. Makima, knowing that Aki is a loyal soldier, tells him that he can kill the Devils and Fiends who disobey his orders. Further, Aki can report unmotivated Devils to Makima and have them killed. This strategy enables Aki to threaten the characters Denji, Power, and Angel with Makima’s wrath to keep them in line. The character Himeno, an employee loyal to Makima in part to protect her love Aki, likely has the same authority over the Devils/Fiends in Makima’s division.
+
+Lastly, Makima is nearly sociopathic in her usage of blackmail to control her employees. She personally organizes her Special Division to contain mainly Devils and Fiends, who she can threaten with a death sentence for disobedience. The humans in her division like Aki and Himeno are tied to the Public Safety organization either for revenge against Devils or to protect their loved ones. Makima’s blackmail clearly works, as she keeps Aki’s strict loyalty by waving in front of him the prospect of defeating the Gun Devil who murdered his family.
+
+The height of Makima’s Stalin-like usage of blackmail is through the criminal complicity that she forces her subordinates into. One such example of this blackmail is Makima forcing the character Angel to kill his entire village before forcibly recruiting him into Public Safety. Makima forces Angel to commit immoral acts to encourage him to serve Public Safety and atone for his sins. She uses the same strategy with Denji throughout the Public Safety saga, forcing Denji to kill his closest friends Aki and Power. As a final step to break Denji’s resistance, Makima berates him for his guilt over the death of his father. This strategy isn’t merely sociopathy, Makima intends to destroy her subordinates to rebuild them as loyal soldiers for her cause.
+
+All of these strategies create the “constant pressure” that Foucault mentions. The Public Safety employees know that Makima could always be watching, either through her spies or her informants. Whether Makima herself is actually watching is less relevant than if employees believe she is watching. Further, most of the employees are on a leash already through the blackmail and leverage that Makima has over them.
+
+These Machiavellian strategies meant that, despite the weakness of her Control Power, Makima could maintain complete control by making resistance seem impossible.
+
+Always in Control
+
+Both the Chainsaw Man characters and readers must have wondered how Makima was leading a Public Safety division while constantly traveling and going on vacation. They also must have wondered why Makima always seemed serene despite her covert machinations. It’s hard to reconcile the relaxed Makima enjoying breakfast while reading the newspaper with the all-seeing all-powering Makima who invokes fear around the world.
+
+The truth is that Makima was always in control, because the legend of her strength was more important than her actual strength. The fear that she could be listening was more important than if she ever listened at all.
+
+In the same way that Bentham’s Panopticon would operate normally without a head warden, Makima’s absolute control would’ve continued even if she never was the Control Devil.
