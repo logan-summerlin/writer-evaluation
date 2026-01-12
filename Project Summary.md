@@ -62,13 +62,15 @@ Final_Score = ((Agent1 + Agent2 + Agent3) + (Human_Score * 3)) / 6
 │     └── Reviewers 1, 2, 3 score all 10 essays (CoT + JSON)      │
 │                        ↓                                        │
 │  3. RANKING                                                     │
-│     └── Calculate AI average scores, identify Top 2 essays      │
+│     └── Calculate AI average scores,                            │
+│       identify 4th best and 5th best essays.                    │
 │                        ↓                                        │
 │  4. HUMAN REVIEW                                                │
-│     └── Human reviews Top 2, provides scores + notes            │
+│     └── Human reviews 4th/5th best essays,                      │
+│          provides scores + notes                                │
 │                        ↓                                        │
 │  5. WEIGHTED SCORING                                            │
-│     └── Calculate final weighted scores for Top 2               │
+│     └── Calculate final weighted scores for 4th/5th essays      │
 │                        ↓                                        │
 │  6. META-OPTIMIZATION                                           │
 │     └── Analyze feedback, generate revised Style Guidelines     │
@@ -124,16 +126,16 @@ Final_Score = ((Agent1 + Agent2 + Agent3) + (Human_Score * 3)) / 6
 ---
 
 ### Phase 3: Ranking & Selection
-**Objective**: Identify Top 2 essays for human review
+**Objective**: Identify 4th and 5th best essays for human review
 
 **Steps**:
 1. Calculate average AI score for each essay:
    `AI_Average = (R1_Score + R2_Score + R3_Score) / 3`
 2. Rank all 10 essays by AI average (descending)
-3. Select Top 2 essays for human review
-4. Present Top 2 essays to human reviewer with AI scores summary
+3. Select 4th and 5th best essays for human review
+4. Present 4th and 5th best essays to human reviewer with AI scores summary
 
-**Output**: Ranked list, Top 2 essays flagged for human review
+**Output**: Ranked list, 4th and 5th best essays flagged for human review
 
 ---
 
@@ -141,12 +143,12 @@ Final_Score = ((Agent1 + Agent2 + Agent3) + (Human_Score * 3)) / 6
 **Objective**: Collect human evaluation of top essays
 
 **Steps**:
-1. Present Top 2 essays to human reviewer
+1. Present 4th and 5th best essays to human reviewer
 2. Human scores each essay using same rubric (4 criteria, 1-5 scale)
 3. Human provides written notes on strengths/weaknesses
 4. Record human scores and notes
 
-**Output**: Human scores and qualitative feedback for Top 2 essays
+**Output**: Human scores and qualitative feedback for 4th and 5th best essays
 
 ---
 
@@ -154,7 +156,7 @@ Final_Score = ((Agent1 + Agent2 + Agent3) + (Human_Score * 3)) / 6
 **Objective**: Calculate final weighted scores
 
 **Steps**:
-1. For each of Top 2 essays, apply formula:
+1. For each of 4th and 5th best essays, apply formula:
    ```
    Final_Score = ((R1 + R2 + R3) + (Human × 3)) / 6
    ```
@@ -169,7 +171,7 @@ Final_Score = ((Agent1 + Agent2 + Agent3) + (Human_Score * 3)) / 6
 **Objective**: Synthesize all reviewer feedback into actionable insights
 
 **Steps**:
-1. **Aggregate Notes**: Compile all reviewer notes (AI + Human) for Top 2 essays
+1. **Aggregate Notes**: Compile all reviewer notes (AI + Human) for 4th and 5th best essays
 2. **Pattern Identification**: Identify recurring themes across reviewers
    - What do all reviewers praise?
    - What do all reviewers criticize?
@@ -295,3 +297,4 @@ writer-evaluation/
 **Essays Generated**: None
 **Style Guidelines Version**: V1 (minimal — word count and topic constraints only)
 **Next Action**: Begin Phase 1 — Generate 10 essays with current Writer Agent
+
