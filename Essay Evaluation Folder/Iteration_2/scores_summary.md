@@ -68,26 +68,72 @@ Based on rankings, the **4th and 5th best essays** are:
 
 *Note: Essays 1, 2, 3, 5, 6 tied at 10.33. Essay 1 selected for human review.*
 
-## Common Reviewer Observations (Following New Guidelines)
+## Human Review Scores
 
-### Improvements from Iteration 1
-- Better thesis clarity
-- Fewer overt list structures
-- More consistent paragraph conclusions
-- Improved logical argumentation
+| Essay | Engagement | Thesis/Logic | Writing Style | Enjoyment | Human Total |
+|-------|------------|--------------|---------------|-----------|-------------|
+| 1 | 2 | 3 | 1 | 2 | **8** |
+| 10 | 1 | 1 | 1 | 1 | **4** |
 
-### Persistent Weaknesses
-1. **Formulaic sentence patterns**: Many sentences begin with "The" + noun; repetitive subject-verb-object structure
-2. **Mechanical transitions**: Sections feel like discrete blocks rather than flowing argument
-3. **Monotonous rhythm**: Predictable paragraph structure; all sentences similar length
-4. **Lack of voice**: Competent but generic academic prose without personality
-5. **Conclusions summarize rather than synthesize**: Final paragraphs restate rather than deepen
-6. **No rhetorical punch**: Interesting insights stated flatly without force
+### Human Reviewer Notes
 
-### Key Improvement Areas for V3 Guidelines
-1. Vary sentence openings - avoid starting consecutive sentences with "The"
-2. Vary sentence lengths - mix short punchy sentences with longer analytical ones
-3. Create cumulative argument force - sections should build on each other
-4. Develop distinctive voice and memorable phrasing
-5. Exploit rhetorical opportunities - ironies, tensions, surprises
-6. Conclusions should synthesize and extend, not summarize
+**Essay 1 (Mongol Empire):**
+- Introduction shouldn't just list facts—give background context then enter a flowing historical narrative
+- Sentences should flow with occasional transitions between them
+- Good thesis statement appreciated
+- Good and interesting supporting evidence and argumentation
+- Appreciated use of counterfactuals and contrast with previous steppe civilizations
+- Bold and convincing arguments
+- Good use of logic and reasoning
+- Conclusion is weak—do not merely repeat previous arguments and facts; synthesize them
+
+**Essay 10 (British Raj):**
+- Second sentence of introduction doesn't flow; introduction must be perfect to keep engagement
+- Didn't fully explain how Indian export wealth was redistributed to Britain—simplify logical connections
+- Didn't explain why railroads weren't equally beneficial to India—explain reasoning for complex topics
+- Claimed equipment was imported from Britain but didn't explain whether India had capacity to provide it
+- Need transitions between sections
+- Land tax criticism lacks historic context and doesn't offer alternative—that was how all developing countries taxed at the time
+- English education criticism is incoherent and weak—why is a unified language bad?
+- Conclusion is extremely weak and doesn't synthesize arguments
+
+---
+
+## Weighted Score Calculation
+
+Formula: `((R1 + R2 + R3) + (Human × 3)) / 6`
+
+| Essay | R1 | R2 | R3 | Human | Weighted Score |
+|-------|----|----|-----|-------|----------------|
+| 1 | 13 | 9 | 9 | 8 | **(31 + 24) / 6 = 9.17** |
+| 10 | 14 | 9 | 9 | 4 | **(32 + 12) / 6 = 7.33** |
+
+**Iteration 2 Average Weighted Score: 8.25 / 20 (41.25%)**
+**Change from Iteration 1: +0.25**
+
+---
+
+## Final Analysis: Key Improvement Areas for V3
+
+### From Human Review (Priority)
+1. **Introduction discipline**: Don't just list facts—provide background context then flowing historical narrative
+2. **Sentence flow**: Sentences should flow with transitions between them, not be isolated statements
+3. **Complete logical explanations**: Fully explain complex topics; simplify logical connections so readers understand
+4. **Support claims completely**: If making a claim, provide the evidence/reasoning; don't leave gaps
+5. **Historical context for criticisms**: When critiquing something, provide context and alternatives
+6. **Coherent arguments**: Arguments must be complete and coherent, not partial or weak
+7. **Synthesizing conclusions**: Conclusions must synthesize and extend arguments, not merely repeat them
+8. **Section transitions**: Use transitions between essay sections
+
+### Strengths to Preserve (from Essay 1)
+- Good thesis statements
+- Use of counterfactuals and contrast
+- Bold and convincing core arguments
+- Good supporting evidence and reasoning
+
+### From AI Review (Secondary)
+1. Formulaic sentence patterns (many start with "The")
+2. Mechanical transitions between sections
+3. Monotonous rhythm—predictable structure
+4. Lack of distinctive voice
+5. Conclusions summarize rather than synthesize
