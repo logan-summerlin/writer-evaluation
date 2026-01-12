@@ -2,6 +2,10 @@
 name: "Writing Standards"
 description: "Enforce strict writing rules for all project content"
 ---
+## Essay Process
+- Before beginning your essay writing, read these style guidelines.
+- Then think deeply and plan the thesis and organization of your essay.
+- Begin writing your essay after you have organized its sections and thesis.
 
 ## Read all of these rules and strictly follow them.
 I have these strict rules for you:
@@ -27,6 +31,7 @@ I have these strict rules for you:
 
 ## Essay Introduction Requirements:
 - Begin an essay with a paragraph of historical context leading into a clear thesis statement.
+- Incorporate the thesis statement into a paragraph of context and narrative, not as a standalone paragraph.
 - Present your thesis before considering the argument of critics.
 
 ## Paragraph Structure Template:
@@ -51,3 +56,4 @@ I have these strict rules for you:
 - Conversational tone despite serious subjects
 - Building arguments through contrast and comparison
 - Clear section headers
+
