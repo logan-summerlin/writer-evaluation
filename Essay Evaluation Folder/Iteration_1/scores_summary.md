@@ -59,24 +59,59 @@ Based on rankings, the **4th and 5th best essays** are:
 
 *Note: Essays 2, 5, and 10 tied at 10.00. Essays 2 and 5 selected for human review.*
 
-## Common Reviewer Observations
+## Human Review Scores
 
-### Strengths Across Essays
-- Clear, arguable theses
-- Logical structure and organization
-- Competent historical argumentation
-- Sound reasoning and evidence
+| Essay | Engagement | Thesis/Logic | Writing Style | Enjoyment | Human Total |
+|-------|------------|--------------|---------------|-----------|-------------|
+| 2 | 2 | 1 | 1 | 2 | **6** |
+| 5 | 2 | 2 | 1 | 1 | **6** |
 
-### Weaknesses Across Essays
-1. **Writing Style (avg 2.03/5)**: Uniformly flat, academic prose lacking personality
-2. **Engagement (avg 2.57/5)**: Essays read like textbook chapters, not compelling arguments
-3. **Missing concrete specifics**: Lack of primary sources, data, anecdotes, vivid details
-4. **No distinctive voice**: Generic academic tone without rhetorical flair
-5. **Tell rather than show**: Abstract claims without concrete human stories
+### Human Reviewer Notes
 
-### Key Improvement Areas (Prioritized)
-1. Inject personality and distinctive voice into prose
-2. Add concrete anecdotes, data, and primary source quotes
-3. Use storytelling techniques and vivid human examples
-4. Develop more memorable phrasing and rhetorical energy
-5. Engage more seriously with counterarguments
+**Essay 2 (Black Death & Feudalism):**
+- Never use "it didn't do X, it did Y" sentences
+- Don't editorialize in introduction—present context and narrative first
+- Use fewer lists like "they had X, Y, and Z"
+- Vary sentence structure
+- Failed to explain why Eastern feudal system strengthened while Western weakened (logical gap undermines argument)
+- Make transitions between sections smoother
+
+**Essay 5 (Napoleon's Legal Code):**
+- Don't use meta-sentences about what historians/others think
+- Use fewer lists like "they had X, Y, and Z"
+- Second paragraph is weak—just a long list of historical facts
+- Create informative narrative instead of listing facts
+- If listing facts, include a conclusion explaining their significance
+- Create narrative that flows across paragraphs into conclusions
+
+---
+
+## Weighted Score Calculation
+
+Formula: `((R1 + R2 + R3) + (Human × 3)) / 6`
+
+| Essay | R1 | R2 | R3 | Human | Weighted Score |
+|-------|----|----|-----|-------|----------------|
+| 2 | 11 | 10 | 9 | 6 | **(30 + 18) / 6 = 8.00** |
+| 5 | 11 | 10 | 9 | 6 | **(30 + 18) / 6 = 8.00** |
+
+**Iteration 1 Baseline Weighted Score: 8.00 / 20 (40%)**
+
+---
+
+## Final Analysis: Key Improvement Areas
+
+### From Human Review (Priority)
+1. **Eliminate formulaic sentence patterns**: No "it didn't do X, it did Y" constructions
+2. **Reduce list structures**: Avoid "X, Y, and Z" patterns; vary sentence construction
+3. **No meta-commentary**: Don't tell reader what historians/others think
+4. **Complete logical arguments**: Don't leave gaps that undermine thesis
+5. **Narrative over lists**: Transform fact-lists into flowing narrative with conclusions
+6. **Smooth transitions**: Better flow between sections and paragraphs
+7. **Introduction discipline**: Present context/narrative first, not editorializing
+
+### From AI Review (Secondary)
+1. Writing style lacks personality and distinctive voice
+2. Essays read like textbook chapters
+3. Generic academic tone
+4. Needs more engagement and rhetorical energy
