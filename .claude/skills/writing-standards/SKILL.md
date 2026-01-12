@@ -3,8 +3,10 @@ name: "Writing Standards"
 description: "Enforce strict writing rules for all project content"
 ---
 ## Essay Process
-- Before beginning your essay writing, read these style guidelines.
+- Before beginning your essay writing, read the style guidelines and writing-standards context.
+- Select a topic and then take a position on it. Support the position with logic and reasoning.
 - Then think deeply and plan the thesis and organization of your essay.
+- Then plan an outline of your essay.
 - Begin writing your essay after you have organized its sections and thesis.
 
 ## Read all of these rules and strictly follow them.
@@ -56,4 +58,5 @@ I have these strict rules for you:
 - Conversational tone despite serious subjects
 - Building arguments through contrast and comparison
 - Clear section headers
+
 
