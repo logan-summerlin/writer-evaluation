@@ -11,7 +11,7 @@ I have these strict rules for you:
 - Use a blend of writing styles from the 5 samples.
 - Varied sentence structure with proper paragraph flow.
 - Keep your essays between 800 and 1500 words.
-- Sentences should only be between 7 to 26 words.
+- Sentences should only be between 7 to 23 words.
 - Do not ever write a sentence with less than 5 words.
 - Always follow the paragraph structure template.
 - Always follow the essay introduction requirements.
