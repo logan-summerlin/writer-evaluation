@@ -1,0 +1,92 @@
+[
+  {
+    "essay_id": 1,
+    "engagement": 2,
+    "thesis_logic": 3,
+    "writing_style": 2,
+    "enjoyment": 2,
+    "overall_score": 9,
+    "notes": "The Spanish paradox essay covers well-trodden ground (Dutch Disease economics) without offering fresh perspective. The thesis is clear and adequately supported, but the essay reads like a competent textbook summary rather than engaging original analysis. The structure relies too heavily on headers as organizational crutches, with sections that feel disconnected rather than building toward a unified argument. Several paragraphs open with similar subject-verb patterns ('Spain...', 'Spanish...') creating monotonous rhythm. The concluding section attempts contemporary relevance with the Russia comparison but feels tacked on rather than earned through the preceding analysis. The essay would benefit from more varied sentence structures and transitions that create logical momentum between sections rather than treating each as a standalone unit."
+  },
+  {
+    "essay_id": 2,
+    "engagement": 3,
+    "thesis_logic": 3,
+    "writing_style": 3,
+    "enjoyment": 3,
+    "overall_score": 12,
+    "notes": "This essay succeeds by taking a contrarian position and defending it methodically. The opening directly challenges 'simple narratives' in a way that hooks readers who have absorbed the conventional wisdom. The counterfactual test in the middle section represents effective argumentative strategy, asking readers to imagine alternative outcomes. However, the essay occasionally adopts a lecturing tone ('History suggests otherwise') that distances rather than engages. The structure progresses logically from treaty terms to economic factors to political choices, but transitions between sections sometimes feel abrupt. The 'determinism' critique at the end is the essay's strongest original contribution, though it arrives late and could be developed further. Sentence variety is adequate but not exceptional."
+  },
+  {
+    "essay_id": 3,
+    "engagement": 2,
+    "thesis_logic": 2,
+    "writing_style": 2,
+    "enjoyment": 2,
+    "overall_score": 8,
+    "notes": "This essay covers a familiar historical question with a familiar answer (inheritance, distance, institutions) without providing fresh insight. The three-part thesis feels like a formula rather than a genuine discovery. The Rome comparison section is underdeveloped, introducing a potentially interesting contrast but not exploring why Rome built institutions that the Mongols did not. The prose is workmanlike but mechanical, with many paragraphs following identical structures. Religious divergence is presented as a consequence rather than being integrated into the main argument. The essay would benefit from choosing one explanatory factor and developing it deeply rather than listing three factors superficially. Transitions between sections are weak, relying on headers rather than prose to signal logical connections."
+  },
+  {
+    "essay_id": 4,
+    "engagement": 2,
+    "thesis_logic": 3,
+    "writing_style": 2,
+    "enjoyment": 2,
+    "overall_score": 9,
+    "notes": "The comparative framing between Chinese and European expansion incentives offers a reasonable analytical structure, but the essay does not fully exploit this framework's potential. Too many paragraphs begin with 'China' or 'Chinese,' creating repetitive rhythm that undermines readability. The tribute system section effectively explains what China gained without colonization, but earlier sections listing factors (nomads, competition, geography) feel like a checklist rather than an integrated argument. The counterfactual section asks interesting questions but does not develop them. The conclusion's claim that 'neither path was inevitable' contradicts the structural determinism implied throughout the essay. Prose is serviceable but lacks the vitality that would make this dry comparative analysis engaging."
+  },
+  {
+    "essay_id": 5,
+    "engagement": 3,
+    "thesis_logic": 3,
+    "writing_style": 3,
+    "enjoyment": 3,
+    "overall_score": 12,
+    "notes": "This essay takes a clear moral position and defends it with effective argumentation. The use of primary documents (secession declarations, Confederate Constitution) strengthens the argument significantly. The essay's directness is both a strength and limitation: it effectively demolishes Lost Cause mythology but occasionally reads more as polemic than analysis. The section on why the mythology persists introduces interesting psychological dimensions but does not develop them fully. Some transitions between sections feel abrupt. The prose is confident and readable, avoiding the textbook dryness of weaker essays in this set. The essay would benefit from acknowledging the strongest versions of opposing arguments before refuting them, which would demonstrate more sophisticated engagement with the historiographical debate."
+  },
+  {
+    "essay_id": 6,
+    "engagement": 2,
+    "thesis_logic": 2,
+    "writing_style": 2,
+    "enjoyment": 2,
+    "overall_score": 8,
+    "notes": "Geographic determinism oversimplifies a complex historical question. The essay repeatedly asserts that 'geography shaped outcomes' without adequately addressing alternative explanations or the role of human agency. The comparison between Japanese 'coup' and Chinese 'revolutionary war' oversimplifies both processes. Several sections read like encyclopedia entries rather than argumentative prose. The essay's structure is clear but mechanical, with headers doing work that prose transitions should perform. The Tokugawa inheritance section is more detailed than the geographic argument warrants given the thesis. The concluding claim that 'geography determines which reforms are possible' contradicts the essay's own acknowledgment of similar reform impulses in both countries. Prose is competent but uninspiring."
+  },
+  {
+    "essay_id": 7,
+    "engagement": 3,
+    "thesis_logic": 3,
+    "writing_style": 3,
+    "enjoyment": 3,
+    "overall_score": 12,
+    "notes": "The paradoxical framing ('catastrophe as catalyst') effectively hooks readers and the essay delivers on its promise with solid economic reasoning. The labor market transformation is explained clearly, and the connection to later technological innovation is well-developed. The Eastern European divergence section adds important nuance, showing that outcomes depended on political power structures rather than plague alone. However, some sections ('Creative Destruction') read like textbook economics rather than engaging essay prose. The 'brutal urban renewal program' metaphor is effective but the essay does not sustain this level of vivid writing throughout. Transitions are generally stronger than in weaker essays, and the argument builds progressively rather than listing factors."
+  },
+  {
+    "essay_id": 8,
+    "engagement": 2,
+    "thesis_logic": 2,
+    "writing_style": 2,
+    "enjoyment": 2,
+    "overall_score": 8,
+    "notes": "This essay reads like a well-organized Wikipedia article rather than an engaging analytical piece. The multiple explanatory factors (geography, wealth, diplomacy, administration, religion, naval power) are listed without being woven into a unified argument. Each section stands alone rather than building on previous sections. The prose is dry and lacks personality. The 'Long Byzantine Decline' section near the end contradicts the triumphalist framing without adequately resolving the tension. Why call this 'survival' if the empire spent most of its existence declining? The comparison with Western Rome is asserted rather than developed. Transitions rely heavily on headers. The conclusion's geographic determinism feels unearned given the essay's emphasis on institutional and diplomatic factors."
+  },
+  {
+    "essay_id": 9,
+    "engagement": 3,
+    "thesis_logic": 3,
+    "writing_style": 2,
+    "enjoyment": 3,
+    "overall_score": 11,
+    "notes": "The essay's nuanced thesis, distinguishing the revolution's legitimate achievements from the Terror's excesses, offers genuine analytical value. The moral reasoning is clear and the structure effectively separates different phases of revolutionary history. However, the essay sometimes tells readers what to think rather than showing them why ('The Terror violated all these guarantees systematically'). Some sections adopt a moralistic tone that may alienate readers who want analysis rather than judgment. The Thermidor section effectively demonstrates that the Terror was not necessary for revolutionary survival. Transitions between sections are adequate but not elegant. The conclusion's lessons for 'future revolutionaries' feels oddly prescriptive. The prose is confident but occasionally lapses into repetitive structures."
+  },
+  {
+    "essay_id": 10,
+    "engagement": 3,
+    "thesis_logic": 3,
+    "writing_style": 3,
+    "enjoyment": 3,
+    "overall_score": 12,
+    "notes": "This essay succeeds through clear strategic reasoning and effective narrative drive. The Periclean strategy is explained clearly, and the essay traces Athens' deviation from that strategy through multiple phases. The Sicilian expedition section is particularly strong, connecting Alcibiades' ambition to structural democratic pressures. The contrast between democratic impatience and Spartan consistency in the conclusion offers genuine insight. However, the democracy critique at the end feels somewhat tacked on rather than integrated throughout the essay. Some sections (the plague, Peace of Nicias) serve more as chronological markers than analytical contributions. The prose maintains reader interest through the war's phases better than most essays in this set. Transitions are generally effective, though some sections end abruptly."
+  }
+]
