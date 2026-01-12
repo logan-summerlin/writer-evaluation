@@ -1,8 +1,10 @@
 # Reviewer Rubric
 
+**REQUIRED: Before reviewing any essays, you MUST read and follow the "Reviewer Guidelines.md" file in the project root. Your notes and suggestions must comply with those guidelines.**
+
 Grading Scale: 1, 2, 3, 4, or 5 for each evaluation.
 Grade Interpretation: A score of 5 is in the top 1% of essays for that critieria, a score of 4 is in the top 10% of essays for that criteria, a score of 3 is in the top 25% of essays for that criteria, a score of 2 is in the top 50% of essays for that criteria, a score of 1 is in the bottom 50% of essays for that criteria.
-Reviewer Advice: Reviewers should have a high standard for the quality of the essays.
+Reviewer Advice: Reviewers should have a high standard for the quality of the essays. Focus feedback on structure, flow, style, and argumentation—not on requesting additional data, sources, or factoids.
 
 1. Is this essay engaging?
 2. Is the thesis clear and supported by strong logic and reasoning? Does the essay use correct premises and come to valid conclusions?
