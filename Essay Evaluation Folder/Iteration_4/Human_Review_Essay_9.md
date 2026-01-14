@@ -100,23 +100,29 @@ Future revolutionaries should learn from France's experience. Legitimate grievan
 
 ---
 
-## Human Review Rubric
-
-Please score each criterion from 1-5:
-- **5** = Top 1% of essays
-- **4** = Top 10% of essays
-- **3** = Top 25% of essays
-- **2** = Top 50% of essays
-- **1** = Bottom 50% of essays
+## Human Review Scores
 
 | Criterion | Score (1-5) |
 |-----------|-------------|
-| 1. Is this essay engaging? | ___ |
-| 2. Is the thesis clear and supported by strong logic/reasoning? | ___ |
-| 3. Does this essay have good writing style? | ___ |
-| 4. Do you enjoy this essay? | ___ |
-| **Total Score** | ___ / 20 |
+| 1. Is this essay engaging? | 1 |
+| 2. Is the thesis clear and supported by strong logic/reasoning? | 1 |
+| 3. Does this essay have good writing style? | 1 |
+| 4. Do you enjoy this essay? | 1 |
+| **Total Score** | **4 / 20** |
 
-## Notes
-(Please provide any specific feedback, strengths, weaknesses, or suggestions for improvement)
+## Human Reviewer Notes
+
+- Don't make overly broad claims like "the most influential political upheaval in modern history"
+- Do not use phrases like "defenders say this, critics say that"
+- Didn't explain why the Terror wasn't necessary for defending France during war
+- Didn't explain why France had the War of the First Coalition
+- Sentences are too terse and short and do not flow
+- Not an enjoyable essay
+
+## Weighted Score Calculation
+
+Formula: `((R1 + R2 + R3) + (Human × 3)) / 6`
+= ((11 + 12 + 12) + (4 × 3)) / 6
+= (35 + 12) / 6
+= **7.83 / 20**
 

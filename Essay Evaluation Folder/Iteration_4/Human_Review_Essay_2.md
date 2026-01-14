@@ -90,23 +90,33 @@ World War II resulted from specific decisions by specific people in specific cir
 
 ---
 
-## Human Review Rubric
-
-Please score each criterion from 1-5:
-- **5** = Top 1% of essays
-- **4** = Top 10% of essays
-- **3** = Top 25% of essays
-- **2** = Top 50% of essays
-- **1** = Bottom 50% of essays
+## Human Review Scores
 
 | Criterion | Score (1-5) |
 |-----------|-------------|
-| 1. Is this essay engaging? | ___ |
-| 2. Is the thesis clear and supported by strong logic/reasoning? | ___ |
-| 3. Does this essay have good writing style? | ___ |
-| 4. Do you enjoy this essay? | ___ |
-| **Total Score** | ___ / 20 |
+| 1. Is this essay engaging? | 1 |
+| 2. Is the thesis clear and supported by strong logic/reasoning? | 1 |
+| 3. Does this essay have good writing style? | 1 |
+| 4. Do you enjoy this essay? | 1 |
+| **Total Score** | **4 / 20** |
 
-## Notes
-(Please provide any specific feedback, strengths, weaknesses, or suggestions for improvement)
+## Human Reviewer Notes
+
+- More varied sentence length and structure needed in the introduction
+- Don't repeat the same word in every sentence of a paragraph ("Germany did this", "Germany did that", "Germany wanted this")
+- Vary sentence length and structure to be entertaining
+- Don't merely give factoids—weave together an informative narrative
+- Use more complex sentence structure: prepositions, dependent clauses, conjunctions
+- Do not constantly use terse statements
+- Example of better sentence: "France, which suffered greater physical destruction during the war, managed to rebuild without inflating away its currency."
+- Combine more sentences that deal with the same subject
+- Don't make an explicit statement of a counterfactual test
+- Essay was not enjoyable or engaging due to simple sentence structure and simple narrative
+
+## Weighted Score Calculation
+
+Formula: `((R1 + R2 + R3) + (Human × 3)) / 6`
+= ((12 + 12 + 11) + (4 × 3)) / 6
+= (35 + 12) / 6
+= **7.83 / 20**
 
