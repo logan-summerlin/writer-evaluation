@@ -50,40 +50,36 @@ Based on rankings, the **4th and 5th best essays** are:
 - **Essay 2**: Versailles Did Not Cause Hitler (AI Average: 11.67)
 - **Essay 9**: The French Revolution Was Justified, But the Terror Was Not (AI Average: 11.67)
 
-## Common Reviewer Observations
-
-### What Distinguished Top Essays (5, 7, 9, 10)
-- Clear moral conviction and stakes
-- Contrarian or paradoxical theses that create intellectual tension
-- Primary source usage (Essay 5)
-- Arguments that surprise and teach something new
-- Better narrative momentum
-
-### Persistent Weaknesses Across All Essays
-1. **Mechanical prose**: Sentences follow predictable patterns without rhythmic variety
-2. **Over-reliance on section headers**: Headers do work that prose transitions should do
-3. **Formulaic paragraph structure**: Topic sentence → explanation → conclusion repeated mechanically
-4. **Textbook-like quality**: Informs without delighting
-5. **Lack of distinctive voice**: Competent but unmemorable prose
-6. **Lists rather than arguments**: Multiple factors presented without weighting or synthesis
-7. **Tells rather than shows**: States conclusions rather than leading readers to them
-
-### Common Style Issues
-- Heavy use of declarative sentences of similar length
-- Transitions that are merely temporal rather than argumentative
-- Sections that stand alone rather than building toward cumulative understanding
-- Prose that describes facts without evoking the world those facts inhabited
-
 ---
 
 ## Human Review Scores
 
-*To be completed after human review*
-
 | Essay | Engagement | Thesis/Logic | Writing Style | Enjoyment | Human Total |
 |-------|------------|--------------|---------------|-----------|-------------|
-| 2 | ___ | ___ | ___ | ___ | ___ |
-| 9 | ___ | ___ | ___ | ___ | ___ |
+| 2 | 1 | 1 | 1 | 1 | **4** |
+| 9 | 1 | 1 | 1 | 1 | **4** |
+
+### Human Reviewer Notes
+
+**Essay 2 (Versailles Did Not Cause Hitler):**
+- More varied sentence length and structure needed in the introduction
+- Don't repeat the same word in every sentence of a paragraph ("Germany did this", "Germany did that", "Germany wanted this")
+- Vary sentence length and structure to be entertaining
+- Don't merely give factoids—weave together an informative narrative
+- Use more complex sentence structure: prepositions, dependent clauses, conjunctions
+- Do not constantly use terse statements
+- Example of better sentence: "France, which suffered greater physical destruction during the war, managed to rebuild without inflating away its currency."
+- Combine more sentences that deal with the same subject
+- Don't make an explicit statement of a counterfactual test
+- Essay was not enjoyable or engaging due to simple sentence structure and simple narrative
+
+**Essay 9 (French Revolution vs Terror):**
+- Don't make overly broad claims like "the most influential political upheaval in modern history"
+- Do not use phrases like "defenders say this, critics say that"
+- Didn't explain why the Terror wasn't necessary for defending France during war
+- Didn't explain why France had the War of the First Coalition
+- Sentences are too terse and short and do not flow
+- Not an enjoyable essay
 
 ---
 
@@ -93,11 +89,11 @@ Formula: `((R1 + R2 + R3) + (Human × 3)) / 6`
 
 | Essay | R1 | R2 | R3 | Human | Weighted Score |
 |-------|----|----|-----|-------|----------------|
-| 2 | 12 | 12 | 11 | ___ | ___ |
-| 9 | 11 | 12 | 12 | ___ | ___ |
+| 2 | 12 | 12 | 11 | 4 | **(35 + 12) / 6 = 7.83** |
+| 9 | 11 | 12 | 12 | 4 | **(35 + 12) / 6 = 7.83** |
 
-**Iteration 4 Average Weighted Score**: ___ / 20
-**Change from Iteration 3**: ___
+**Iteration 4 Average Weighted Score: 7.83 / 20 (39.15%)**
+**Change from Iteration 3: -0.92**
 
 ---
 
@@ -108,4 +104,56 @@ Formula: `((R1 + R2 + R3) + (Human × 3)) / 6`
 | 1 (Baseline) | 8.00 | — |
 | 2 | 8.25 | +0.25 |
 | 3 | 8.75 | +0.50 |
-| 4 | ___ | ___ |
+| **4** | **7.83** | **-0.92** |
+| **Cumulative** | — | **-0.17** |
+
+---
+
+## Final Analysis: Key Improvement Areas for V5
+
+### CRITICAL ISSUE: Sentence Structure and Flow (From Human Review)
+
+The primary problem across both essays is **repetitive, terse sentence structure** that creates boring, unengaging prose:
+
+1. **Repetitive subject starts**: Starting multiple consecutive sentences with the same subject ("Germany did X. Germany did Y.")
+2. **Lack of complex sentences**: Not using dependent clauses, relative clauses, or conjunctions
+3. **Terse statement chains**: Writing short declarative statements instead of flowing narrative
+4. **Factoid lists instead of narrative**: Presenting information as disconnected facts rather than woven narrative
+
+### V5 Style Guidelines Focus
+
+The V5 guidelines have been updated to prioritize:
+
+1. **Sentence Structure Variety** (NEW - HIGHEST PRIORITY)
+   - Never start consecutive sentences with the same subject
+   - Use dependent clauses, prepositions, conjunctions
+   - Example: "France, which suffered greater physical destruction during the war, managed to rebuild without inflating away its currency."
+   - Combine related ideas into flowing sentences
+   - Write narrative, not factoid lists
+
+2. **Avoid Overly Broad Claims**
+   - Don't claim "most influential" or "most important in history"
+   - Make specific, defensible claims
+
+3. **Complete Explanations**
+   - Explain WHY things happened, not just that they happened
+   - Provide causal mechanisms
+
+4. **No Explicit Labels**
+   - Don't label sections "The Counterfactual Test"—just present the reasoning naturally
+
+### Duplicates Removed
+
+Removed duplicate guidance between writer.md and SKILL.md:
+- Essay Process (kept in SKILL.md)
+- Sentence length 7-23 words (kept in SKILL.md)
+- 800-1500 words (kept in SKILL.md)
+- "It was not X" prohibition (kept in SKILL.md)
+- Critics/Defenders prohibition (kept in SKILL.md)
+- Vague references prohibition (kept in SKILL.md)
+- Meta-argument phrases (kept in SKILL.md)
+- Section headers requirement (kept in SKILL.md)
+
+### Next Steps
+
+Iteration 5 will test the V5 guidelines with their emphasis on sentence structure variety and narrative flow.
